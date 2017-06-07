@@ -1,0 +1,13 @@
+.gifDiv{
+display:inline;
+}
+.gifDiv img{
+padding-top:5px;
+margin:5px;
+height:200px;
+}
+
+ .btn-primary{
+
+background-color:lightseagreen;
+}
