@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hot",
+				"hotelName"
+			],
+			[
+				"get",
+				"getLocationData"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"name-",
+				"name-display"
+			],
+			[
+				"cons",
+				"comment-display"
+			],
+			[
+				"data",
+				"data-state"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"second",
+				"secondRowTds"
+			],
+			[
+				"display",
+				"displayImage"
+			],
+			[
+				"cu",
+				"currentTime"
+			],
+			[
+				"pla",
+				"playerScore"
+			],
+			[
+				"pl",
+				"playerScore"
+			],
+			[
+				"tim",
+				"time-left"
+			],
+			[
+				"time",
+				"timeUp"
+			],
+			[
+				"g",
+				"guessesCounter"
+			],
+			[
+				"user",
+				"userGuess"
+			],
+			[
+				"com",
+				"compareGuesses"
+			],
+			[
+				"compu",
+				"computerGuess"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 459.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/romibabe/Documents/giphyAPI/assets/javascript/logic.js",
+		"/C/Users/romibabe/Documents/CrystalCollector/index.html",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Installed Packages/Predawn Twilight Theme.sublime-package",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/romibabe/Documents/Basic-Portfolio/contact.html",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/romibabe/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/romibabe/Documents/nodeExercises/05-PackageJSON/package.json",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/hotels.html",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/carousel.html",
+		"/C/Users/romibabe/Documents/travelbuddy/hotel.html",
+		"/C/Users/romibabe/Documents/travelbuddy/index.html",
+		"/C/Users/romibabe/Documents/travelbuddy/js/materialize.min.js",
+		"/C/Users/romibabe/Documents/travelbuddy/assets/javascript/choiceapp.js",
+		"/C/Users/romibabe/Documents/travelbuddy/mapindex.html",
+		"/C/Users/romibabe/Documents/travelbuddy/ThingsToDo.html",
+		"/C/Users/romibabe/Documents/travelbuddy/js/init.js",
+		"/C/Users/romibabe/Documents/travelbuddy/js/materialize.js",
+		"/C/Users/romibabe/Documents/travelbuddy/choice.html",
+		"/C/Users/romibabe/Documents/travelbuddy/food.html",
+		"/C/Users/romibabe/Documents/Pyschic-Game-JS/index.html",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/traveldata.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/01- Week/2-Unit - CSS-Bootstrap/02-Homework/Solutions/media_queries/hw-feedback-examples-week-2.pdf",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/carousel2.html",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/assets/images/tb7.jpg",
+		"/C/Users/romibabe/Documents/Carousels/carousel2.html",
+		"/C/Users/romibabe/Documents/Carousels/assets/javascript/app.js",
+		"/C/Users/romibabe/Documents/Carousels/index(R).html",
+		"/C/Users/romibabe/Documents/Carousels/assets/css/style.css",
+		"/C/Users/romibabe/Documents/Carousels/index.html",
+		"/C/Users/romibabe/Documents/Carousels/carousel.html",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/assets/css/style.css",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/hotels1.html",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/carousel",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/assets/javascript/appR.js",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/assets/javascript/app2.js",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/assets/javascript/app1.js",
+		"/C/Users/romibabe/Documents/travelbuddy(2)/assets/javascript/app.js",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/16-NYTSearch/Solution/NYTArticleSearch_VideoComplement/index.html",
+		"/C/Users/romibabe/Documents/travelbuddy(3)/hotel.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/16-NYTSearch/Solution/NYTArticleSearch_Best_Solution/nytCode.js",
+		"/C/Users/romibabe/Documents/travelbuddy/hotels.html",
+		"/C/Users/romibabe/Documents/trainScheduler/index.html",
+		"/C/Users/romibabe/Documents/trainScheduler/assets/javascript/logic.js",
+		"/C/Users/romibabe/Documents/travelbuddy/assets/css/style.css",
+		"/C/Users/romibabe/Documents/travelbuddy/assets/images/Bali.jpg",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/05-Bujumbura/bujumbura-solved.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/04-Giphy_API/4-giphy-api.html",
+		"/C/Users/romibabe/Documents/giphyAPI/index.html",
+		"/C/Users/romibabe/Documents/travelbuddy/assets/javascript/app1.js",
+		"/C/Users/romibabe/Documents/travelbuddy/assets/javascript/app.js",
+		"/C/Users/romibabe/Documents/travelbuddy/Food/index.html",
+		"/C/Users/romibabe/Downloads/trip.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/03-AJAX_to_HTML/3-ajax-to-html-solution.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/10-WorkingMovieApp/working-movie-app-easier.html",
+		"/C/Users/romibabe/Documents/travelbuddy/places.html",
+		"/C/Users/romibabe/Documents/travelbuddy/assets/javascript/appR.js",
+		"/C/Users/romibabe/Documents/travelbuddy/traveldata.html",
+		"/C/Users/romibabe/Documents/travelbuddy/hotels1.html",
+		"/C/Users/romibabe/Documents/travelbuddy/assets/javascript/appR",
+		"/C/Users/romibabe/Documents/RCC/JSGenerators",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/02 - Week/4 - jQuery/01-Activities/01-JSGenerators/4.html",
+		"/C/Users/romibabe/Documents/RCC/JSGenerators.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/02 - Week/4 - jQuery/01-Activities/01-JSGenerators/1.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/02 - Week/4 - jQuery/01-Activities/01-JSGenerators/2.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/02 - Week/4 - jQuery/01-Activities/01-JSGenerators/3.html",
+		"/C/Users/romibabe/Documents/TriviaGame/index.html",
+		"/C/Users/romibabe/Documents/TriviaGame/assets/javascript/game.js",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/15-PausingGifs/4-pausing-gifs-students.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/16-NYTSearch/1-student-do-todolist (1).html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/04 - Week/07-firebase/01-Activities/02-signin-nopersistence/2-student-do-signin-no-persistence.html",
+		"/C/Users/romibabe/Documents/giphyAPI/assets/css/style.css",
+		"/C/Users/romibabe/Documents/TriviaGame(i)/index.html",
+		"/C/Users/romibabe/Documents/giphyAPI/assets/javascript/javascript.js",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/16-NYTSearch/NYTArticleSearch_VideoComplement/index.html",
+		"/C/Users/romibabe/Documents/CC/index.html",
+		"/C/Users/romibabe/Documents/CrystalCollector/logic.js",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/16-NYTSearch/NYTArticleSearch_VideoComplement/logic.js",
+		"/C/Users/romibabe/Documents/CrystalCollector/css/style.css",
+		"/C/Users/romibabe/Documents/TriviaGame/assets/css/style.css",
+		"/C/Users/romibabe/Documents/TestProject/triviagame.js",
+		"/C/Users/romibabe/Documents/TriviaGame/assets/MODULE 10/myscript.js",
+		"/C/Users/romibabe/Documents/Crystal-Collector/css/style.css",
+		"/C/Users/romibabe/Documents/Crystal-Collector/index.html",
+		"/C/Users/romibabe/Documents/Crystal-Collector/logic.js",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/5 - Timers/01-Activities/13-bubble_sort/sortArray.js",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/01-CustomerObject/1-customer-object.html",
+		"/C/Users/romibabe/Documents/Pyschic-Game-JS/index1.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/02-Ajax_OMDB/multiple-ajax.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/6 - Ajax/01-Activities/03-AJAX_to_HTML/3-ajax-to-html.html",
+		"/C/Users/romibabe/Documents/TriviaGame/assets/index",
+		"/C/Users/romibabe/Documents/Pyschic-Game-JS/index2.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/03 - Week/5 - Timers/01-Activities/13-bubble_sort/index.html",
+		"/C/Users/romibabe/Documents/TriviaGame/assets/css/body {",
+		"/C/Users/romibabe/Documents/Crystal-Collector/css/styles.css",
+		"/C/Users/romibabe/Documents/Portfolio WIP/index1.html",
+		"/C/Users/romibabe/Documents/Day 2/RelativePaths_UNSOLVED/RelativePaths_2/html-bio.html",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/contact.html",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/index.html",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/portfolio.html",
+		"/C/Users/romibabe/Documents/JS-Day2/Game.html",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/02 - Week/3 - Unit - Intro to JS/01-Activities/22-RPS-Coded/README.md",
+		"/C/Users/romibabe/Documents/05-2017-Class-Repository-FT/02 - Week/3 - Unit - Intro to JS/01-Activities/22-RPS-Coded/Unsolved/rps-1.html",
+		"/C/Users/romibabe/Documents/JS-Day2/game2.html",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/about1.html",
+		"/C/Users/romibabe/Documents/Responsive-Portfolio/contact.html",
+		"/C/Users/romibabe/Documents/Responsive-Portfolio/index.html",
+		"/C/Users/romibabe/Documents/Responsive-Portfolio/style.css",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/style.css",
+		"/C/Users/romibabe/Documents/Responsive-Portfolio/portfolio.html",
+		"/C/Users/romibabe/Documents/JS-Day1/sushi_pref.html",
+		"/C/Users/romibabe/Documents/JS-Day1/array_activity2.html",
+		"/C/Users/romibabe/Documents/JS-Day1/array.html",
+		"/C/Users/romibabe/Documents/JS-Day1/conditional_activity.html",
+		"/C/Users/romibabe/Documents/JS-Day1/pizzaconsole.html",
+		"/C/Users/romibabe/Documents/JS-Day1/array_activity.html",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/reset.css",
+		"/C/Users/romibabe/Documents/Day 1/firstpage.html",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/README.md",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/linkedin.png",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/about.html",
+		"/C/Users/romibabe/Documents/Bootstrap-Portfolio/grid.html",
+		"/C/Users/romibabe/Documents/romibabe.github.io/index.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"packages",
+			"packagees",
+			"getElementById",
+			"id",
+			"15px",
+			"    \n",
+			"('/",
+			"');",
+			"}\n",
+			"guessesleft",
+			"   ",
+			"10px",
+			"8px",
+			">\n",
+			"myscript",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
